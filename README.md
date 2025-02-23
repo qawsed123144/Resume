@@ -16,7 +16,7 @@ My career goal is to become a versatile engineer who combines technical expertis
 ## Skills
 - **Programming Languages**: MySQL, JavaScript, Python, Docker, Git, React JS, Next JS, React Native, Java
 - **Technologies**: System Development, Database Management, Web Development
-- - **Language**: IELTS 6.5
+- **Language**: IELTS 6.5
 
 ## Portfolio: 小耕園
 You can check out my "小耕園" portfolio by visiting the following link
